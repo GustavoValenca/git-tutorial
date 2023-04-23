@@ -49,3 +49,4 @@ git merge <branch_name>
     https://cursos.alura.com.br/forum/topico-diferenca-entre-clone-e-remote-add-115571
 */
 
+git push origin <branch_name>
