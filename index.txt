@@ -37,3 +37,6 @@ git checkout master
 
 // Mudar branch
 git checkout <branch>
+
+// Mudar o nome da branch
+git branch -m <branch_name>
