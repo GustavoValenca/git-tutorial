@@ -34,3 +34,6 @@ git checkout <6 primeiros digitos do commit>
 
 // "Voltar para o futuro" 
 git checkout master
+
+// Mudar branch
+git checkout <branch>
