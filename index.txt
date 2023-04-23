@@ -23,3 +23,14 @@ git commit -m "<mensagem>"
 
 git log
 
+// "Voltar no tempo" para um commit específico
+git checkout <6 primeiros digitos do commit>
+
+/*
+    Obs: 
+    - Sempre dê commit antes de checkout
+    - Não tente fazer commits em branches do passado
+*/
+
+// "Voltar para o futuro" 
+git checkout master
