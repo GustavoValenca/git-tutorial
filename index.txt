@@ -50,3 +50,6 @@ git merge <branch_name>
 */
 
 git push origin <branch_name>
+
+git pull origin
+
