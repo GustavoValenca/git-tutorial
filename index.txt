@@ -1,0 +1,23 @@
+// Inicializa o projeto: cria uma pasta .git/
+git init
+
+git status
+
+/*
+    pasta         stage           .git
+        git add =>    git commit =>
+*/
+
+// Adiciona o file para o stage
+git add <file>
+
+// Adiciona todos os files untracked ao stage
+git add .
+
+git config --global user.name <name>
+git config --global user.email <email>
+
+git config --list
+
+git commit -m "<mensagem>"
+
