@@ -40,3 +40,12 @@ git checkout <branch>
 
 // Mudar o nome da branch
 git branch -m <branch_name>
+
+// Dá merge entre a branch atual e a branch_name colocando o que tá em branch_name na branch atual
+git merge <branch_name>
+
+/*
+    git clone vs git remote add:
+    https://cursos.alura.com.br/forum/topico-diferenca-entre-clone-e-remote-add-115571
+*/
+
