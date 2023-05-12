@@ -53,3 +53,15 @@ git push origin <branch_name>
 
 git pull origin
 
+git ignore:
+    - Adiciono o arquivo ou a pasta no gitignore
+    - Ignore committed:
+        - git rm -r --cached foldername  // Ignore a Previously Committed Folder 
+        - git rm --cached filename // Ignore a Previously Committed File
+    - git add .gitignore
+    - git commit -m "update ignored files"
+
+    Links:
+        - https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/
+        - https://stackoverflow.com/questions/7527982/applying-gitignore-to-committed-files
+
